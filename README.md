@@ -18,4 +18,4 @@
 В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.
 
 ![alt text](https://github.com/bris91/13-02/blob/f0841c0a87e1be68eddc12e20c40053d8fa4541d/2.png)
-![alt text](https://github.com/bris91/13-02/blob/f0841c0a87e1be68eddc12e20c40053d8fa4541d/2.2.png)
+![alt text](https://github.com/bris91/13-02/blob/f0841c0a87e1be68eddc12e20c40053d8fa4541d/2.1.png)
